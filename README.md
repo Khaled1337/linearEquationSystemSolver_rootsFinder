@@ -4,7 +4,7 @@
 
 #####Sample Runs
 
-![](sample_runs/1.png?raw=true)
+![](sample_runs/1.PNG?raw=true)
 ![](sample_runs/2.png?raw=true)
 ![](sample_runs/3.png?raw=true)
 ![](sample_runs/4.png?raw=true)
