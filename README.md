@@ -4,13 +4,13 @@
 
 ##Sample Runs
 
-![](sample_runs/1.png?raw=true)
-![](sample_runs/2.png?raw=true)
-![](sample_runs/3.png?raw=true)
-![](sample_runs/4.png?raw=true)
-![](sample_runs/5.png?raw=true)
-![](sample_runs/6.png?raw=true)
-![](sample_runs/7.png?raw=true)
-![](sample_runs/8.png?raw=true)
-![](sample_runs/9.png?raw=true)
-![](sample_runs/10.png?raw=true)
+![](sample_runs/s1.png?raw=true)
+![](sample_runs/s2.png?raw=true)
+![](sample_runs/s3.png?raw=true)
+![](sample_runs/s4.png?raw=true)
+![](sample_runs/s5.png?raw=true)
+![](sample_runs/s6.png?raw=true)
+![](sample_runs/s7.png?raw=true)
+![](sample_runs/s8.png?raw=true)
+![](sample_runs/s9.png?raw=true)
+![](sample_runs/s10.png?raw=true)
