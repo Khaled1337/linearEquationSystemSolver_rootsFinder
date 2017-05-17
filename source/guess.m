@@ -25,7 +25,7 @@ for step=2:maxItr
           return;
     elseif(f(fx0_right)*f(fx1_right)==0)
        flag=1;
-        if(fx0_right==0)
+        if(f(fx0_right)==0)
              first=fx0_right;
           second=fx0_right;
           return;
@@ -46,7 +46,7 @@ for step=2:maxItr
           return;
    elseif(f(fx0_left)*f(fx1_left)==0)
         flag=1;
-        if(fx0_left==0)
+        if(f(fx0_left)==0)
              first=fx0_left;
           second=fx0_left;
           return;
